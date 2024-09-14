@@ -32,7 +32,7 @@ npm run develop
 # or
 yarn develop
 
-
+# 
 5-Access the Admin Panel:
 
 Once the server is running, you can access the Strapi admin panel at:
