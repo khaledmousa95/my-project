@@ -1,4 +1,3 @@
-# Strapi Backend assignment Project
 
 ## Overview
 This is a Strapi project built as a assignment for BSO real estate. It includes the Strapi backend along with its content, database, and configuration. all sensitive information is included. However, this should not be used in a production environment.
@@ -14,7 +13,6 @@ This is a Strapi project built as a assignment for BSO real estate. It includes 
 yarn install
 or
 npm install
-# or
 
 
 
