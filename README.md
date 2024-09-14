@@ -5,7 +5,7 @@ This is a Strapi project built as a assignment for BSO real estate. It includes 
 
 1. **Clone the repository**:
    using bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/khaledmousa95/my-project.git
    cd your-repo-name
 
 # Install dependencies:
