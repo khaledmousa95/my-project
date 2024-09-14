@@ -9,31 +9,30 @@ This is a Strapi project built as a assignment for BSO real estate. It includes 
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
 
-2-Install dependencies:
+# Install dependencies:
 
-
+yarn install
+or
 npm install
 # or
-yarn install
 
 
-3-Run the Strapi app:
+
+# -Run the Strapi app:
 
 Build the admin panel:
-
-npm run build
-# or
 yarn build
+or
+npm run build
 
 
-4-Start the app:
+# Start the app:
 
 npm run develop
-# or
-yarn develop
 
-# 
-5-Access the Admin Panel:
+
+# Access the Admin Panel:
+
 
 Once the server is running, you can access the Strapi admin panel at:
 
@@ -46,7 +45,7 @@ Use the following credentials to log in:
 Email: khaled.mousa.dec95@gmail.com
 Password: Abc123!@#
 
-Included Files
+# Included Files
 .tmp/ folder with the SQLite database (or other relevant files).
 .env file with all the necessary keys and configurations.
 
